@@ -16,6 +16,7 @@ public class DoAn_PhungTranHai_QLNS_Test {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("hello world");
     }
     
 }
